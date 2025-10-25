@@ -1,0 +1,121 @@
+.register-bg {
+  height: 100vh;
+  top:0;
+  left:0;
+  width: 100vw;
+  border-radius: 70px; 
+  overflow: hidden; 
+  background-image: url('https://i.pinimg.com/originals/83/cf/58/83cf58495d18f79ce44836b48f45f282.jpg');  /* New register background */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.register-card {
+  background-color: rgba(0, 0, 0, 0.5); /* 50% transparent black */
+  border: 2px solid rgba(255, 255, 255, 0.1); 
+  padding: 48px 38px 36px 38px;
+  border-radius: 28px;
+  box-shadow: 0 8px 56px rgba(30,16,22,0.22);
+  min-width: 370px;
+  max-width: 400px;
+  text-align: center;
+  position: relative;
+  transition: box-shadow 0.2s;
+}
+
+.register-card:hover {
+  box-shadow: 0 12px 64px rgba(30,16,22,0.32);
+}
+
+.close-btn {
+  position: absolute;
+  top: 20px;
+  right: 22px;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  color: #888;
+  font-size: 20px;
+  cursor: pointer;
+  transition: border 0.2s, color 0.2s;
+}
+.close-btn:hover {
+  border: 1.5px solid #FFD700;
+  color: #FFD700;
+}
+
+.register-card h2 {
+  font-size: 22px;
+  margin-bottom: 32px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #222;
+}
+
+.register-dropdown {
+  width: 85%;
+  padding: 12px 14px;
+  margin-bottom: 32px;
+  border-radius: 12px;
+  border: 1.5px solid #ddd;
+  background: #fff;
+  font-size: 16px;
+  box-shadow: 0 1px 6px rgba(60,44,75,0.08);
+  transition: border 0.2s;
+}
+.register-dropdown:focus,
+.register-dropdown:hover {
+  border: 1.5px solid #FFD700;
+  outline: none;
+}
+
+.member-text {
+  font-size: 15px;
+  margin-top: 12px;
+  color:#e0dcd6;
+}
+
+.login-link {
+  color: #FF9100;
+  font-weight: 600;
+  cursor: pointer;
+  transition: text-decoration 0.15s, color 0.15s;
+}
+
+.login-link:hover {
+  text-decoration: underline;
+  color: #b29900;
+}
+
+.logo-container {
+  position: fixed;
+  top: 18px;
+  left: 32px;
+  z-index: 25;
+}
+
+.logo-text {
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  font-size: 32px;
+  color: #FFD700 ;
+  letter-spacing: 2px;
+  cursor: pointer;
+  user-select: none;
+  text-shadow: 0 0 8px #FFD70088;
+  margin: 0;
+  cursor: pointer;
+ 
+} 
+.register-card h2 {
+  color: #FF9100; /* Bright rich orange */
+  font-weight: 800;
+  text-align: center;
+  font-size: 26px;
+}

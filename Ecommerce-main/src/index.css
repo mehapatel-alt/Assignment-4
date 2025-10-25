@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Default white background for the app */
+#root {
+  background-color: white;
+}
+
+/* Vendor pages - force white background */
+.vendor-page,
+.vendor-dashboard,
+.vendor-home {
+  background-color: white !important;
+  min-height: 100vh;
+}
+
+/* Customer pages - allow their beautiful gradients */
+.customer-dashboard-page,
+.cart-page-container {
+  /* Let customer pages use their own beautiful styling */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

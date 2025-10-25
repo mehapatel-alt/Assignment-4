@@ -1,0 +1,113 @@
+/* Vendor Dashboard Styles - Original Clean Design */
+
+/* Reset any inherited styles for vendor pages */
+.vendor-page,
+.vendor-page * {
+  background-color: white !important;
+  color: #333 !important;
+}
+
+/* Vendor Dashboard specific styles */
+.vendor-dashboard {
+  background-color: white;
+  min-height: 100vh;
+  padding: 20px 0;
+}
+
+.vendor-dashboard .container {
+  background-color: white;
+}
+
+.vendor-dashboard .card {
+  background-color: white;
+  border: 1px solid #dee2e6;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.vendor-dashboard .card-body {
+  background-color: white;
+  color: #333;
+}
+
+.vendor-dashboard .btn {
+  background-color: #007bff;
+  border-color: #007bff;
+  color: white;
+}
+
+.vendor-dashboard .btn-warning {
+  background-color: #ffc107;
+  border-color: #ffc107;
+  color: #212529;
+}
+
+.vendor-dashboard .btn-danger {
+  background-color: #dc3545;
+  border-color: #dc3545;
+  color: white;
+}
+
+.vendor-dashboard .btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+  color: white;
+}
+
+.vendor-dashboard .btn-secondary {
+  background-color: #6c757d;
+  border-color: #6c757d;
+  color: white;
+}
+
+/* Table styles for vendor dashboard */
+.vendor-dashboard .table {
+  background-color: white;
+  color: #333;
+}
+
+.vendor-dashboard .table th {
+  background-color: #f8f9fa;
+  color: #333;
+  border-color: #dee2e6;
+}
+
+.vendor-dashboard .table td {
+  background-color: white;
+  color: #333;
+  border-color: #dee2e6;
+}
+
+/* Form styles for vendor dashboard */
+.vendor-dashboard .form-control {
+  background-color: white;
+  color: #333;
+  border-color: #ced4da;
+}
+
+.vendor-dashboard .form-control:focus {
+  background-color: white;
+  color: #333;
+  border-color: #80bdff;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+/* Override any dark themes specifically for vendor pages */
+.vendor-page,
+.vendor-dashboard,
+.vendor-home {
+  background-color: white !important;
+  color: #333 !important;
+}
+
+.vendor-page *,
+.vendor-dashboard *,
+.vendor-home * {
+  background-color: white !important;
+  color: #333 !important;
+}
+
+/* Ensure vendor pages don't inherit customer page styles */
+.vendor-page .customer-dashboard-page,
+.vendor-page .cart-page-container {
+  background-color: white !important;
+}

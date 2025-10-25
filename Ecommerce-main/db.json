@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Fit and Flare Dress",
+      "price": 500,
+      "image": "https://imgs.search.brave.com/tQcMGAJMK46u8UASCzpDvY4_wAO3kDJAiG0XWvuuBAA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bGliYXMuaW4vY2Ru/L3Nob3AvZmlsZXMv/Mjk0MzRPXzdNYWlu/LmpwZz92PTE3NTU5/NDc5MDUmd2lkdGg9/MTA4MA%22"
+    },
+    {
+      "id": 2,
+      "name": "Women high Heels",
+      "price": 1000,
+      "image": "https://imgs.search.brave.com/gnaK0-2tT_A_Uq6_vmChTci9LtqiY_t36TLHcK5cbRs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTE2/NDk4OTU3My9waG90/by93b21hbi13ZWFy/aW5nLXllbGxvdy1o/ZWVscy5qcGc_cz02/MTJ4NjEyJnc9MCZr/PTIwJmM9TnNDQk1S/ekNUVXZZandCMEx6/Sm52SkdWM0lzTGpq/cHBwQjUzWE5JTlcw/az0%22"
+    },
+    {
+      "id": 3,
+      "name": "Textured Handheld Handbag",
+      "price": 1500,
+      "image": "https://imgs.search.brave.com/qpyiSDcjkRZsOpAZoJ1U2XL4pgqbr_dOW07F1mCEhFM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzEwLzA3LzE2LzE3/LzM2MF9GXzEwMDcx/NjE3MjNfVVF2SWxX/ZmxhQ3N2cHlzamdn/aE1GMUdpcndoTEtV/VDcuanBn%22"
+    },
+    {
+      "id": 4,
+      "name": "Gold Plated Finger Ring",
+      "price": 2000,
+      "image": "https://imgs.search.brave.com/X66hus_qTALz_f7V1xm5LyjQFaNq3t9LFxa0ADpoECo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9jYWxlY2xlY3Rp/Yy5jb20vY2RuL3No/b3AvZmlsZXMvQmly/dGhzdG9uZV9KZXdl/bHJ5XzEuanBnP3Y9/MTczOTU3MDgxOSZ3/aWR0aD0xNTAw%22"
+    },
+    {
+      "id": 5,
+      "name": "Colorful Indian Bangles",
+      "price": 2000,
+      "image": "https://imgs.search.brave.com/8Fv7koIQGiuBljrpY1de6jR6vNLmg9OyzNtCAeryJ0g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzE2LzMwLzU5LzY5/LzM2MF9GXzE2MzA1/OTY5MTlfN0ZpRlBx/bVJnNGtmaVdGU0hS/MXA1bERtSTdiN3l3/S0wuanBn%22"
+    },
+    {
+      "id": 6,
+      "name": "Women Analogue Watch",
+      "price": 2000,
+      "image": "https://imgs.search.brave.com/PfLmR6-x4iAbsXu4GCXfHYyiM51j6j6nFEebTeGaFMc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YnJlaXRsaW5nLmNv/bS9hcGkvaW1hZ2Ut/cHJveHkvaW1hZ2Vz/LmN0ZmFzc2V0cy5u/ZXQvMTF5dTVqNWIx/NGt4LzZ1M1hNcmE4/N2F2dllmWHp1NGVX/a2IvNWQ1NzVmNzY4/ZWM3OWMyM2ZmNDE4/NzUxYTQ1MzA2MTAv/SFAtbG9jYWwtQVUu/anBnP2ltPVJlZ2lv/bk9mSW50ZXJlc3RD/cm9wLHdpZHRoPTM0/OTUsaGVpZ2h0PTI3/NDUscmVnaW9uT2ZJ/bnRlcmVzdD0oNTgy/LjUsNDU3LjUpJmZv/cm1hdD1hdXRv%22"
+    },
+    {
+      "id": 7,
+      "name": "New LessBerry Cargo Jeans",
+      "price": 1200,
+      "image": "https://imgs.search.brave.com/OdsVHtgWCwOoZgY1nz629ODZJTXLEn7u53psXB1xKRk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuYmxvb21pbmdk/YWxlc2Fzc2V0cy5j/b20vaXMvaW1hZ2Uv/QkxNL3Byb2R1Y3Rz/LzYvb3B0aW1pemVk/LzEzNzE2NzU2X2Zw/eC50aWY_JDIwMTRf/QlJPV1NFX0ZBU0hJ/T04kJnFsdD04MCww/JnJlc01vZGU9c2hh/cnAyJm9wX3VzbT0x/Ljc1LDAuMywyLDAm/Zm10PWpwZWcmd2lk/PTM0MiZoZWk9NDI4%22"
+    },
+    {
+      "id": 8,
+      "name": "Women Sneakers",
+      "price": 1200,
+      "image": "https://imgs.search.brave.com/wcPz5cy2VV4dtaVXl_L5ybV9s8GELTc0gPsqn0PgS6I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9r/aGFraS1jYW52YXMt/c25lYWtlcnMtd29t/ZW4tcy1zaG9lcy1h/cHBhcmVsLXNob290/XzUzODc2LTEwNTUz/OS5qcGc_c2VtdD1h/aXNfaHlicmlkJnc9/NzQw%22"
+    }
+  ]
+}
